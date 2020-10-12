@@ -12,7 +12,7 @@
         {
 			"kind": "main",
 			"tag": "com-braincourt-helloworld-0",
-            "url": "http://brainds02.braincourt.de/ks/webcomponent.js",
+            "url": "https://raw.githubusercontent.com/SAPBraincourt/CustomWidgetShowCase/main/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
         }
