@@ -1,0 +1,26 @@
+{
+	"name": "Hello World",
+	"description": "Hello World Custom Widget",
+	"eula": "",
+	"vendor": "CLA",
+	"license": "",
+	"id": "com.braincourt.helloworld.0",
+	"newInstancePrefix": "CustomWidgetHelloWorld",
+	"version": "0.0.1",
+	"icon": "https://www.braincourt.com/wp-content/uploads/2017/08/braincourt_logo_220.png",
+	"webcomponents": [
+        {
+			"kind": "main",
+			"tag": "com-braincourt-helloworld-0",
+            "url": "http://brainds02.braincourt.de/ks/webcomponent.js",
+            "integrity": "",
+            "ignoreIntegrity" : true
+        }
+    ],
+	"properties": {
+	},
+	"methods": {
+	},
+	"events": {
+	}
+}
